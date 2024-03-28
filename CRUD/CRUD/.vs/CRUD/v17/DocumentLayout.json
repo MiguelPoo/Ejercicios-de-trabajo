@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miguel\\Documents\\Ejercicios de trabajo\\CRUD\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC878BC-F006-4200-89D1-4A3041A59C03}|CRUD\\CRUD.csproj|c:\\users\\miguel\\documents\\ejercicios de trabajo\\crud\\crud\\crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFC878BC-F006-4200-89D1-4A3041A59C03}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC878BC-F006-4200-89D1-4A3041A59C03}|CRUD\\CRUD.csproj|c:\\users\\miguel\\documents\\ejercicios de trabajo\\crud\\crud\\crud\\views\\facturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFC878BC-F006-4200-89D1-4A3041A59C03}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\facturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC878BC-F006-4200-89D1-4A3041A59C03}|CRUD\\CRUD.csproj|c:\\users\\miguel\\documents\\ejercicios de trabajo\\crud\\crud\\crud\\controllers\\facturadetallescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC878BC-F006-4200-89D1-4A3041A59C03}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\facturadetallescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC878BC-F006-4200-89D1-4A3041A59C03}|CRUD\\CRUD.csproj|c:\\users\\miguel\\documents\\ejercicios de trabajo\\crud\\crud\\crud\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC878BC-F006-4200-89D1-4A3041A59C03}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC878BC-F006-4200-89D1-4A3041A59C03}|CRUD\\CRUD.csproj|c:\\users\\miguel\\documents\\ejercicios de trabajo\\crud\\crud\\crud\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC878BC-F006-4200-89D1-4A3041A59C03}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC878BC-F006-4200-89D1-4A3041A59C03}|CRUD\\CRUD.csproj|c:\\users\\miguel\\documents\\ejercicios de trabajo\\crud\\crud\\crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFC878BC-F006-4200-89D1-4A3041A59C03}|CRUD\\CRUD.csproj|solutionrelative:crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC878BC-F006-4200-89D1-4A3041A59C03}|CRUD\\CRUD.csproj|c:\\users\\miguel\\documents\\ejercicios de trabajo\\crud\\crud\\crud\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC878BC-F006-4200-89D1-4A3041A59C03}|CRUD\\CRUD.csproj|solutionrelative:crud\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC878BC-F006-4200-89D1-4A3041A59C03}|CRUD\\CRUD.csproj|c:\\users\\miguel\\documents\\ejercicios de trabajo\\crud\\crud\\crud\\models\\dbcrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC878BC-F006-4200-89D1-4A3041A59C03}|CRUD\\CRUD.csproj|solutionrelative:crud\\models\\dbcrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Documents\\Ejercicios de trabajo\\CRUD\\CRUD\\CRUD\\Views\\Facturas\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Facturas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\Documents\\Ejercicios de trabajo\\CRUD\\CRUD\\CRUD\\Views\\Facturas\\Index.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Facturas\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T03:36:59.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Documents\\Ejercicios de trabajo\\CRUD\\CRUD\\CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\Documents\\Ejercicios de trabajo\\CRUD\\CRUD\\CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T03:33:32.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturaDetallesController.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Documents\\Ejercicios de trabajo\\CRUD\\CRUD\\CRUD\\Controllers\\FacturaDetallesController.cs",
+              "RelativeDocumentMoniker": "CRUD\\Controllers\\FacturaDetallesController.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Documents\\Ejercicios de trabajo\\CRUD\\CRUD\\CRUD\\Controllers\\FacturaDetallesController.cs",
+              "RelativeToolTip": "CRUD\\Controllers\\FacturaDetallesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:32:37.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Documents\\Ejercicios de trabajo\\CRUD\\CRUD\\CRUD\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "CRUD\\Controllers\\ProductoesController.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Documents\\Ejercicios de trabajo\\CRUD\\CRUD\\CRUD\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "CRUD\\Controllers\\ProductoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:32:05.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Documents\\Ejercicios de trabajo\\CRUD\\CRUD\\CRUD\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "CRUD\\Controllers\\FacturasController.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Documents\\Ejercicios de trabajo\\CRUD\\CRUD\\CRUD\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "CRUD\\Controllers\\FacturasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:31:34.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Documents\\Ejercicios de trabajo\\CRUD\\CRUD\\CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\Miguel\\Documents\\Ejercicios de trabajo\\CRUD\\CRUD\\CRUD\\appsettings.json",
+              "RelativeToolTip": "CRUD\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T03:29:46.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Documents\\Ejercicios de trabajo\\CRUD\\CRUD\\CRUD\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "CRUD\\Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Documents\\Ejercicios de trabajo\\CRUD\\CRUD\\CRUD\\Models\\Factura.cs",
+              "RelativeToolTip": "CRUD\\Models\\Factura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:29:33.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbcrudContext.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Documents\\Ejercicios de trabajo\\CRUD\\CRUD\\CRUD\\Models\\DbcrudContext.cs",
+              "RelativeDocumentMoniker": "CRUD\\Models\\DbcrudContext.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Documents\\Ejercicios de trabajo\\CRUD\\CRUD\\CRUD\\Models\\DbcrudContext.cs",
+              "RelativeToolTip": "CRUD\\Models\\DbcrudContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:25:05.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

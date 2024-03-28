@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Public Holidays";
+}
+<br />
+
+<label>Selcciona la region</label>
+
+<form action="@Url.Action("GetPublicHolidays")" method="post">
+    <select name="country">
+        <option value="MX">Mexico (MX)</option>
+        <option value="US">United States (US)</option>
+        <option value="FR">France (FR)</option>
+
+
+
+    </select>
+    <br />
+    <br />
+    <label>Year</label>
+    <input type="text" placeholder="2024" name="year" class="form-control" />
+    <br />
+    <br />
+    <input type="submit" class="btn btn-success" />
+</form>

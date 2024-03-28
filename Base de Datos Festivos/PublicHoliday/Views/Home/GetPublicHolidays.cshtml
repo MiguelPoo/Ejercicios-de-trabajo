@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "GetPublicHolidays";
+    @model IEnumerable<PublicHoliday.Models.HolidayDetails>  
+}
+
+<h2>GetPublicHolidays</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Name</th>
+            <th>Local Name</th>
+            <th>Country Code</th>
+
+        </tr>
+
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td>@item.date.ToString("dd/M/yy")</td>
+                <td>@item.name</td>
+                <td>@item.localName</td>
+                <td>@item.country</td>
+            </tr>
+
+        }
+
+    </tbody>
+
+</table>
+
